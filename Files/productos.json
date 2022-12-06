@@ -1,0 +1,38 @@
+[
+  {
+    "timeStamp": "1/12/2022 12:01",
+    "nombre": "Microndas",
+    "codigo": "Z158V",
+    "fotoUrl": "https://cdn1.iconfinder.com/data/icons/home-tools-1/136/microwave-512.png",
+    "precio": 5000,
+    "stock": 10,
+    "id": 1
+  },
+  {
+    "timeStamp": "1/12/2022 12:01",
+    "nombre": "Horno",
+    "codigo": "4QD7S",
+    "fotoUrl": "https://cdn1.iconfinder.com/data/icons/home-tools-1/136/stove-512.png",
+    "precio": 6500,
+    "stock": 5,
+    "id": 2
+  },
+  {
+    "timeStamp": "1/12/2022 12:01",
+    "nombre": "Aspiradora",
+    "codigo": "HVXGY",
+    "fotoUrl": "https://cdn2.iconfinder.com/data/icons/appliance-electronic-vol-2/512/vacuum_cleaner_hoover_appliance-512.png",
+    "precio": 3000,
+    "stock": 20,
+    "id": 3
+  },
+  {
+    "timeStamp": "1/12/2022 12:01",
+    "nombre": "Licuadora",
+    "codigo": "OIC2M",
+    "fotoUrl": "https://cdn1.iconfinder.com/data/icons/kitchen-and-food-2/44/blender-512.png",
+    "precio": 2000,
+    "stock": 20,
+    "id": 4
+  }
+]
